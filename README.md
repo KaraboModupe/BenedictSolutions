@@ -148,8 +148,8 @@
 <section id="contact" class="contact">
   <h2>Contact Us</h2>
   <p>📍 Johannesburg, South Africa</p>
-  <p>📞 +27 67 228 0781 (Primary)</p>
-  <p>📞 +27 69 955 3187 (Secondary)</p>
+  <p>📞 +27 67 228 0781 </p>
+  <p>📞 +27 69 955 3187 </p>
   <p>📧 info@benedictsolutions.co.za</p>
   <p>📧 kgothatso@benedictsolutions.co.za</p>
   <p>📧 karabo@benedictsolutions.co.za</p>
